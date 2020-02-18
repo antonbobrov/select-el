@@ -1,6 +1,6 @@
 {
   "name": "select-el",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Select DOM elements by CSS selectors or check if variables are DOM elements",
   "main": "dist/index.js",
   "types": "./dist/types/types.d.ts",
